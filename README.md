@@ -1,2 +1,12 @@
-# Planetary-Radio-Station
-Planetary Radio Station that will render 3d planets that you can interact with, using NASA's api and Spotify api built with a react
+# how to Run and instal
+
+- yarn
+- yarn start
+
+
+
+
+# Project
+
+the goal of the project is to create a 3d env with the mapBox api and spotify api to build a fun and interactive 3d radio station
+
